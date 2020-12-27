@@ -1,0 +1,27 @@
+.test {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+}
+
+img {
+  height: 30rem;
+  margin-bottom: 3px;
+}
+
+button {
+  height: 5rem;
+  width: 5rem;
+  border: 2px solid white;
+  background: linear-gradient(
+    to right,
+    rgb(50, 50, 217),
+    rgb(237, 31, 31),
+    black
+  );
+  border-radius: 45%;
+  box-shadow: 12px 3px 650px red;
+}
+.mode {
+  text-decoration: underline;
+}
